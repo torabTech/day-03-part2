@@ -1,13 +1,13 @@
 {
   "name": "Ass_03",
   "version": "1.0.0",
-  "description": "",
+  "description": "Day 03 Assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Torab",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
